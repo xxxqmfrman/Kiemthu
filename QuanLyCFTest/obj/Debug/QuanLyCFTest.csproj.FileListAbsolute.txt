@@ -1,0 +1,10 @@
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\bin\Debug\QuanLyCFTest.dll
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\bin\Debug\QuanLyCFTest.pdb
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\bin\Debug\QuanLyCF.exe
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\bin\Debug\QuanLyCF.pdb
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\obj\Debug\QuanLyCFTest.csprojAssemblyReference.cache
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\obj\Debug\QuanLyCFTest.csproj.CoreCompileInputs.cache
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\obj\Debug\QuanLyCFTest.csproj.CopyComplete
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\obj\Debug\QuanLyCFTest.dll
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\QuanLyCFTest\obj\Debug\QuanLyCFTest.pdb

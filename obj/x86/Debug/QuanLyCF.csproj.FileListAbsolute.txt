@@ -1,0 +1,12 @@
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\bin\Debug\QuanLyCF.exe
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\bin\Debug\QuanLyCF.pdb
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.csprojAssemblyReference.cache
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.DangNhap.resources
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.NhaCungCap.resources
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.Properties.Resources.resources
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.QuanLyCoffee.resources
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.SanPham.resources
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.csproj.GenerateResource.cache
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.csproj.CoreCompileInputs.cache
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.exe
+C:\Users\BIUBIU\OneDrive\Desktop\QuanLyCF-master\obj\x86\Debug\QuanLyCF.pdb
